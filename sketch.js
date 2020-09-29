@@ -3,7 +3,7 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(windowWidth,windowHeight)
+  createCanvas(1476,794);
   // put setup code here
   background("#150026");
   angleMode(DEGREES);
